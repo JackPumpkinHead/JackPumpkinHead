@@ -1,1 +1,1 @@
-![Gif](https://raw.githubusercontent.com/JackPumpkinHead/JackPumpkinHead/master/profilejackgif.gif)
+![Banner](https://raw.githubusercontent.com/JackPumpkinHead/JackPumpkinHead/master/profilejackgif.gif)
