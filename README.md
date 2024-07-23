@@ -7,8 +7,6 @@
 
 ### ✨ &nbsp;About me :
 
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-
 - 🧰 I work as a software engineer and develop interfaces for creating web applications.
 - 🌱 I am currently studying modX, and after that I will study writing the backend part of the web application
 - ⚡ In my free time, I solve problems on LeetCode, write my portfolio website and read technical articles.
