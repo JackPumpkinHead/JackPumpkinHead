@@ -1,4 +1,11 @@
-## Hi there 👋
+<div id="header" align="center">
+  <h1>Hi there, I`m Igor 🎃</h1>
+  <h3>Frontend Developer</h3>
+</div>
+
+---
+
+### ✨ &nbsp;About me :
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
@@ -25,5 +32,10 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
+---
+
 ### 🔥 GitHub Streak Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JackPumpkinHead)](https://git.io/streak-stats)
+
+
